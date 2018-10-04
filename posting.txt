@@ -1,0 +1,941 @@
+Shower		-> | D0:0 | 
+continued		-> | D0:1 | D77:18 | D92:10 | 
+throughout		-> | D0:2 | 
+week		-> | D0:3 | D1:1 | D3:19 | D18:4, 31 | D27:25 | D51:4, 31 | D57:25 | 
+Bahia		-> | D0:4 | D2:17 | D3:11 | D10:1 | 
+cocoa		-> | D0:5 | D1:20 | D2:9 | D3:4, 26 | 
+zone		-> | D0:6 | 
+alleviating		-> | D0:7 | 
+drought		-> | D0:8 | 
+since		-> | D0:9 | 
+early		-> | D0:10 | D45:27 | D65:2 | 
+January		-> | D0:11 | D20:3 | D31:26 | D53:3 | 
+improving		-> | D0:12 | 
+prospect		-> | D0:13 | 
+coming		-> | D0:14 | D27:24 | D57:24 | 
+temporao		-> | D0:15 | 
+although		-> | D0:16 | 
+normal		-> | D0:17 | 
+humidity		-> | D0:18 | 
+level		-> | D0:19 | 
+have		-> | D0:20 | D3:21 | D17:4 | D24:7 | D31:1 | D36:2 | D50:4 | D55:21 | D71:11 | D83:4 | D84:8 | D86:2 | D89:4 | 
+been		-> | D0:21 | D68:5 | D71:12 | D89:5 | D95:6 | 
+restored		-> | D0:22 | 
+Comissaria		-> | D0:23 | D2:0 | D3:29 | D6:21 | D9:25 | 
+Smith		-> | D0:24 | D2:1 | D3:30 | D6:22 | D9:26 | D23:13 | D55:13 | D82:10 | 
+said		-> | D0:25 | D2:2 | D3:31 | D6:23 | D9:27 | D12:3 | D15:7 | D16:18 | D17:2 | D19:2 | D21:2 | D22:5 | D23:4 | D24:1 | D27:2 | D28:23 | D29:24 | D33:4 | D34:0 | D35:3, 18 | D37:1, 16 | D38:3 | D39:1, 12 | D40:1 | D41:3, 17 | D42:1 | D43:2 | D44:1 | D45:3, 23 | D46:0 | D47:2 | D48:14 | D49:18 | D50:2 | D52:2 | D53:15 | D54:5 | D55:4, 15 | D57:2 | D58:23 | D59:15 | D60:4, 14 | D63:2 | D65:1 | D66:2 | D67:1, 10, 28, 40 | D69:18 | D70:30 | D72:5 | D73:21 | D74:6 | D75:1 | D76:6 | D77:2 | D78:2, 12 | D80:2 | D81:2, 23 | D82:2 | D83:16, 18 | D85:13 | D86:14 | D90:3 | D92:19 | D93:27 | D94:12, 33 | D95:11 | D96:8 | D98:3 | D99:3, 26 | 
+weekly		-> | D0:26 | 
+review		-> | D0:27 | 
+Arrival		-> | D1:0 | 
+ended		-> | D1:2 | 
+February		-> | D1:3 | D11:3, 15 | D20:12 | D30:10 | D32:11, 23 | D43:6 | D53:12 | D83:14 | 
+were		-> | D1:4 | D4:2, 10 | D5:2, 26 | D7:1 | D8:1 | D9:2 | D10:15 | D42:3 | D92:13 | D93:2 | D99:17 | 
+155221		-> | D1:5 | 
+bag		-> | D1:6 | D2:21, 28 | D10:5, 9 | 
+kilo		-> | D1:7 | D3:38 | 
+making		-> | D1:8 | 
+cumulative		-> | D1:9 | D47:12 | 
+total		-> | D1:10 | D2:16 | D32:20, 22 | D39:19 | 
+season		-> | D1:11 | 
+against		-> | D1:12 | D10:6, 10 | 
+same		-> | D1:13 | D62:9 | 
+stage		-> | D1:14 | 
+last		-> | D1:15 | D45:11 | D64:12 | D83:13 | D87:14 | D90:0 | D91:19 | 
+year		-> | D1:16 | D28:22 | D39:5 | D45:12, 30 | D58:22 | D63:3, 13 | D64:13 | D65:13 | D68:7 | D80:14 | D87:15 | D88:15 | D93:25 | 
+Again		-> | D1:17 | 
+seem		-> | D1:18 | 
+that		-> | D1:19 | D18:11 | D19:3, 19 | D27:3 | D29:2 | D45:15 | D51:11 | D52:3, 19 | D57:3 | D58:32 | D64:5 | D88:11 | D97:7 | D98:8 | D99:7 | 
+delivered		-> | D1:21 | 
+earlier		-> | D1:22 | D18:29 | D51:29 | D64:2 | D80:15 | D88:9 | D89:12 | 
+consignment		-> | D1:23 | D3:28 | 
+included		-> | D1:24 | 
+arrival		-> | D1:25 | 
+figure		-> | D1:26 | D11:1 | D32:3 | 
+there		-> | D2:3, 25 | 
+still		-> | D2:4, 10, 29 | D84:9 | D86:3 | D92:14 | 
+some		-> | D2:5 | D91:3, 10 | 
+doubt		-> | D2:6 | D3:1 | 
+much		-> | D2:7 | D3:2 | D28:17 | D58:17 | 
+crop		-> | D2:8, 18 | D5:0 | D10:8, 12 | D32:5 | D93:24 | 
+available		-> | D2:11 | D31:32 | D60:20 | 
+harvesting		-> | D2:12 | 
+practically		-> | D2:13 | 
+come		-> | D2:14 | 
+With		-> | D2:15 | D29:9 | D59:0 | 
+estimate		-> | D2:19 | 
+around		-> | D2:20 | D18:22 | D51:22 | D73:17 | 
+sale		-> | D2:22 | D4:9 | D5:1, 24 | D9:1 | D10:2, 14 | D38:5 | D45:6 | D63:4 | D69:8 | D79:12 | D99:36 | 
+standing		-> | D2:23 | D29:13 | D59:4 | 
+almost		-> | D2:24 | D92:15 | 
+hundred		-> | D2:26 | 
+thousand		-> | D2:27 | D32:12 | 
+hand		-> | D2:30 | 
+farmer		-> | D2:31 | D3:20 | 
+middlemen		-> | D2:32 | 
+exporter		-> | D2:33 | 
+processor		-> | D2:34 | D62:22 | 
+There		-> | D3:0 | 
+thi		-> | D3:3 | D18:3, 24, 30 | D45:29 | D51:3, 24, 30 | D85:3 | 
+would		-> | D3:5 | D16:8 | D22:16 | D25:5, 13 | D26:5 | D29:5 | D40:5 | D41:18 | D42:7 | D44:3 | D49:8 | D54:16 | D56:5, 13, 22 | D58:35 | D65:9 | D78:8 | D83:20 | D93:21 | D98:11 | 
+export		-> | D3:6 | D69:4 | D92:8 | D94:24 | 
+shipper		-> | D3:7 | D4:1 | 
+experiencing		-> | D3:8 | 
+dificultie		-> | D3:9 | 
+obtaining		-> | D3:10 | 
+superior		-> | D3:12 | 
+certificate		-> | D3:13 | 
+view		-> | D3:14 | 
+lower		-> | D3:15 | D26:7 | D56:24 | D81:3 | 
+quality		-> | D3:16 | 
+over		-> | D3:17 | D27:13, 23 | D57:13, 23 | D87:4 | D94:3 | 
+recent		-> | D3:18 | D16:13 | D35:20 | D49:13 | 
+sold		-> | D3:22 | D5:29 | D41:4 | 
+good		-> | D3:23 | 
+part		-> | D3:24 | D25:16 | D42:4 | D56:16 | D82:5 | 
+their		-> | D3:25 | D32:9 | D61:10 | D72:14 | D73:6 | D84:12 | 
+held		-> | D3:27 | 
+spot		-> | D3:32 | 
+bean		-> | D3:33 | 
+price		-> | D3:34 | D26:4, 9 | D30:8 | D39:7 | D40:7, 12 | D56:21, 26 | D76:10 | 
+rose		-> | D3:35 | 
+cruzado		-> | D3:36 | 
+arroba		-> | D3:37 | 
+Bean		-> | D4:0 | 
+reluctant		-> | D4:3 | 
+offer		-> | D4:4 | D20:2 | D22:19 | D25:6 | D53:2 | D54:19 | D56:6 | D69:6 | 
+nearby		-> | D4:5 | 
+shipment		-> | D4:6, 13 | D32:17 | D70:2 | 
+only		-> | D4:7 | 
+limited		-> | D4:8 | D9:3 | D33:17 | 
+booked		-> | D4:11 | 
+March		-> | D4:12 | D78:10, 26 | D90:12 | 
+1750		-> | D4:14 | 
+1780		-> | D4:15 | 
+dlr		-> | D4:16 | D5:12, 13, 21, 33 | D6:8, 12, 18 | D9:9, 12, 18 | D10:17, 19, 20 | D28:6, 12, 18 | D35:14, 23 | D38:18 | D39:8 | D40:15 | D41:16 | D43:9 | D45:13 | D58:6, 12, 18 | D63:8, 11 | D65:16 | D67:5 | D70:7 | D79:8, 14 | D80:7, 8, 11, 12 | D83:25, 28 | D97:24 | 
+tonne		-> | D4:17 | D5:22 | D32:13 | D70:8 | 
+port		-> | D4:18 | D5:6 | D7:7 | 
+named		-> | D4:19 | 
+also		-> | D5:3 | D13:6 | D37:15 | D39:14 | D41:2 | D63:1 | D67:27 | D88:0 | 
+light		-> | D5:4 | 
+open		-> | D5:5 | D7:6 | 
+with		-> | D5:7 | D9:4 | D15:10 | D18:6 | D19:4 | D22:18 | D23:8 | D26:19 | D28:27 | D33:8 | D34:5 | D46:8 | D47:7 | D51:6 | D52:4 | D54:18 | D55:8 | D56:36 | D58:27 | D73:13 | D93:13 | D97:15, 19 | D98:16 | D99:19, 34 | 
+JuneJuly		-> | D5:8 | D6:5 | D9:10 | 
+going		-> | D5:9 | D89:6 | 
+1850		-> | D5:10 | 
+1880		-> | D5:11, 20 | 
+under		-> | D5:14 | D14:9 | D16:2 | D19:13 | D39:26 | D49:2 | D52:13 | 
+York		-> | D5:15 | D6:4, 14, 20 | D9:14, 20, 24 | D10:22 | D85:2 | 
+july		-> | D5:16 | 
+AugSept		-> | D5:17 | D6:9 | D9:16 | 
+1870		-> | D5:18 | 
+1875		-> | D5:19 | 
+Routine		-> | D5:23 | 
+butter		-> | D5:25 | D6:1 | 
+made		-> | D5:27 | D74:7 | D99:28 | 
+MarchApril		-> | D5:28 | D9:5 | D10:18 | 
+4340		-> | D5:30 | 
+4345		-> | D5:31 | 
+4350		-> | D5:32 | 
+AprilMay		-> | D6:0 | 
+went		-> | D6:2 | 
+time		-> | D6:3, 13, 19 | D9:13, 19, 23 | D10:21 | D22:1 | D40:13 | D54:1 | D73:8 | D98:27 | 
+4400		-> | D6:6 | 
+4415		-> | D6:7 | 
+4351		-> | D6:10 | 
+4450		-> | D6:11 | 
+Sept		-> | D6:15 | D9:21 | 
+OctDec		-> | D6:16 | D9:22 | D10:23 | 
+4480		-> | D6:17 | 
+Destination		-> | D7:0 | 
+Covertible		-> | D7:2 | 
+currency		-> | D7:3 | D8:5 | 
+area		-> | D7:4 | D8:6 | 
+Uruguay		-> | D7:5 | D8:3 | 
+Buyer		-> | D8:0 | 
+Argentina		-> | D8:2 | 
+convertible		-> | D8:4 | D25:10 | D47:13 | D56:10 | 
+Liquor		-> | D9:0 | 
+selling		-> | D9:6 | D98:28 | 
+2325		-> | D9:7 | 
+2380		-> | D9:8 | 
+2375		-> | D9:11 | 
+July		-> | D9:15 | D31:11 | D97:20 | 
+2400		-> | D9:17 | 
+Total		-> | D10:0 | 
+currently		-> | D10:3 | 
+estimated		-> | D10:4 | 
+198687		-> | D10:7 | D32:19 | 
+198788		-> | D10:11 | 
+Cake		-> | D10:13 | 
+registered		-> | D10:16 | 
+Final		-> | D11:0 | 
+period		-> | D11:2 | D62:11 | 
+expected		-> | D11:4 | D21:7 | D53:20 | D81:7 | 
+published		-> | D11:5 | 
+Brazilian		-> | D11:6 | D27:7 | D28:7 | D57:7 | D58:7 | 
+Cocoa		-> | D11:7 | 
+Trade		-> | D11:8 | 
+Commission		-> | D11:9 | D17:15 | D33:11 | D50:15 | D97:4 | 
+after		-> | D11:10 | D18:26 | D22:21 | D31:7, 10, 16, 19, 25 | D51:26 | D54:21 | D68:6 | D88:8 | D91:13 | 
+carnival		-> | D11:11 | 
+which		-> | D11:12 | D13:5 | D17:11 | D28:2 | D50:11 | D58:2 | D89:3 | D93:18 | D99:16 | 
+end		-> | D11:13 | 
+midday		-> | D11:14 | 
+Standard		-> | D12:0 | D13:9 | D14:8 | 
+North		-> | D12:1 | D13:0 | D69:14 | 
+America		-> | D12:2 | D13:1 | 
+they		-> | D12:4 | D17:3 | D23:1 | D24:6 | D27:5 | D29:25 | D50:3 | D55:1, 20 | D57:5 | D59:16 | D93:26 | 
+plan		-> | D12:5 | D42:6 | D47:3 | D97:5 | D98:20 | 
+form		-> | D12:6 | D42:21 | D48:25 | D70:11 | 
+venture		-> | D12:7 | D14:0 | 
+manage		-> | D12:8 | D48:18 | 
+money		-> | D12:9 | 
+market		-> | D12:10 | D19:18 | D21:8 | D24:9 | D40:11 | D52:18 | D53:21 | D55:23 | D74:14 | D94:25 | 
+borrowing		-> | D12:11 | 
+investment		-> | D12:12 | D74:11 | D88:22 | 
+activitie		-> | D12:13 | 
+both		-> | D12:14 | D78:20 | 
+companie		-> | D12:15 | 
+subsidiary		-> | D13:2 | D76:2 | 
+British		-> | D13:3 | 
+Petroleum		-> | D13:4 | 
+own		-> | D13:7 | 
+interest		-> | D13:8 | D18:14 | D28:13, 21 | D33:19 | D51:14 | D58:13, 21 | D71:6 | D86:9 | D87:0 | D91:17 | 
+will		-> | D14:1, 6 | D19:20 | D22:2 | D27:10 | D29:28 | D34:9 | D45:7 | D48:16 | D52:20 | D54:2 | D57:10 | D59:19 | D60:19 | D61:2 | D64:8 | D67:14, 30 | D70:9 | D90:10 | 
+called		-> | D14:2 | D60:16 | 
+BPStandard		-> | D14:3 | 
+Financial		-> | D14:4 | D22:11 | D54:11 | 
+Trading		-> | D14:5 | 
+operated		-> | D14:7 | 
+oversight		-> | D14:10 | 
+joint		-> | D14:11 | 
+management		-> | D14:12 | D84:14 | 
+committee		-> | D14:13 | D83:3 | D85:0 | 
+Texa		-> | D15:0, 4 | 
+Commerce		-> | D15:1, 5 | 
+Bancshare		-> | D15:2 | 
+Inc		-> | D15:3 | D82:11 | 
+BankHouston		-> | D15:6 | 
+filed		-> | D15:8 | D20:1 | D33:5 | D53:1 | 
+application		-> | D15:9 | 
+Comptroller		-> | D15:11 | 
+Currency		-> | D15:12 | 
+effort		-> | D15:13 | 
+create		-> | D15:14 | 
+largest		-> | D15:15 | 
+banking		-> | D15:16 | D16:16 | D18:8 | D27:14 | D49:16 | D51:8 | D57:14 | 
+network		-> | D15:17 | D83:19 | 
+Harri		-> | D15:18 | 
+County		-> | D15:19 | 
+BankAmerica		-> | D16:0 | D17:6 | D18:0 | D19:12 | D20:0 | D21:0 | D22:8, 15 | D24:3 | D25:1 | D26:12 | D28:1 | D29:18 | D49:0 | D50:6 | D51:0 | D52:12 | D53:0, 13 | D54:8, 15 | D55:17 | D56:1, 29 | D58:1 | D59:9 | 
+Corp		-> | D16:1 | D35:9 | D48:9 | D49:1 | D68:3 | D74:1, 5 | D76:5 | 
+pressure		-> | D16:3 | D19:14 | D49:3 | D52:14 | 
+quickly		-> | D16:4 | D49:4 | 
+proposed		-> | D16:5 | D33:13 | D49:5 | 
+equity		-> | D16:6 | D17:9 | D49:6 | D50:9 | 
+offering		-> | D16:7 | D17:10 | D26:1 | D33:14 | D34:3 | D47:11 | D49:7 | D50:10 | D56:18 | D60:5 | D67:3 | 
+well		-> | D16:9 | D44:13 | D49:9 | 
+delay		-> | D16:10 | D17:7 | D46:1 | D49:10 | D50:7 | 
+because		-> | D16:11 | D49:11 | D84:4 | D87:11 | 
+stock		-> | D16:12 | D18:1, 20 | D19:23 | D25:12 | D26:3, 13 | D35:7 | D37:6, 27 | D38:9 | D39:25 | D40:10 | D44:16 | D49:12 | D51:1, 20 | D52:23 | D56:12, 20, 30 | D77:6 | 
+poor		-> | D16:14 | D49:14 | 
+performance		-> | D16:15 | D49:15 | D65:8 | 
+analyst		-> | D16:17 | D17:1 | D19:1 | D23:7 | D25:8 | D26:18 | D27:1 | D28:26 | D29:23 | D49:17 | D50:1 | D52:1 | D55:7 | D56:8, 35 | D57:1 | D58:26 | D59:14 | D62:16 | D68:10 | 
+Some		-> | D17:0 | D50:0 | D94:10 | 
+recommended		-> | D17:5 | D50:5 | 
+onebilliondlr		-> | D17:8 | D50:8 | 
+approved		-> | D17:12 | D37:4 | D50:12 | D77:4 | 
+Securitie		-> | D17:13 | D33:9 | D50:13 | D97:2 | 
+Exchange		-> | D17:14 | D33:10 | D50:14 | D97:3 | 
+fell		-> | D18:2 | D51:2 | 
+along		-> | D18:5 | D34:4 | D51:5 | 
+other		-> | D18:7 | D29:10 | D51:7 | D59:1 | D91:28 | D94:31 | D95:2 | 
+issue		-> | D18:9 | D51:9 | 
+new		-> | D18:10, 32 | D51:10, 32 | 
+Brazil		-> | D18:12 | D28:19 | D29:19 | D51:12 | D58:19 | D59:10 | D67:52 | D91:15, 31 | D94:19 | 
+suspended		-> | D18:13 | D51:13 | 
+payment		-> | D18:15 | D35:25 | D51:15 | 
+large		-> | D18:16 | D51:16 | 
+portion		-> | D18:17 | D51:17 | 
+foreign		-> | D18:18 | D51:18 | 
+debt		-> | D18:19 | D27:8 | D28:16 | D29:22, 27, 32 | D35:5 | D36:18 | D51:19 | D57:8 | D58:16 | D59:13, 18, 23 | D89:15 | 
+traded		-> | D18:21 | D51:21 | 
+down		-> | D18:23 | D51:23 | 
+afternoon		-> | D18:25 | D51:25 | D85:4 | 
+falling		-> | D18:27 | D51:27 | D64:15 | 
+1112		-> | D18:28 | D51:28 | 
+Banking		-> | D19:0 | D52:0 | 
+immediate		-> | D19:5 | D52:5 | 
+threat		-> | D19:6 | D52:6 | 
+First		-> | D19:7 | D20:8 | D52:7 | D53:8 | 
+Interstate		-> | D19:8 | D20:9 | D52:8 | D53:9 | 
+Bancorp		-> | D19:9 | D52:9 | 
+takeover		-> | D19:10 | D20:11 | D52:10 | D53:11 | 
+gone		-> | D19:11 | D52:11 | 
+sell		-> | D19:15 | D52:15 | 
+securitie		-> | D19:16 | D35:15 | D47:8 | D52:16 | D97:16 | 
+into		-> | D19:17 | D52:17 | 
+nervou		-> | D19:21 | D52:21 | 
+bank		-> | D19:22 | D29:12, 36 | D52:22 | D59:3, 27 | D72:7 | D83:1, 17, 22 | D88:20 | D89:20 | D91:24 | 
+near		-> | D19:24 | D52:24 | 
+term		-> | D19:25 | D52:25 | D72:13 | D73:4 | D83:8 | D84:15 | D87:10 | 
+seen		-> | D20:4 | D53:4 | 
+major		-> | D20:5 | D29:11 | D53:5 | D59:2 | D67:42 | 
+factor		-> | D20:6 | D53:6 | 
+leading		-> | D20:7 | D53:7 | 
+withdrawing		-> | D20:10 | D53:10 | 
+spokesman		-> | D21:1 | D53:14 | 
+approval		-> | D21:3 | D22:23 | D53:16 | D54:23 | D84:11 | D85:8 | 
+taking		-> | D21:4 | D53:17 | 
+longer		-> | D21:5 | D24:2, 5 | D53:18 | D55:16, 19 | 
+than		-> | D21:6 | D29:17 | D45:10 | D53:19 | D59:8 | D95:3 | 
+condition		-> | D21:9 | D40:2 | D53:22 | D61:12 | D73:5 | 
+must		-> | D21:10 | D53:23 | 
+reevaluated		-> | D21:11 | D53:24 | 
+circumstance		-> | D22:0 | D39:28 | D54:0 | 
+determine		-> | D22:3 | D54:3 | 
+what		-> | D22:4 | D54:4 | 
+Arthur		-> | D22:6 | D54:6 | 
+Miller		-> | D22:7 | D54:7 | 
+Vice		-> | D22:9 | D54:9 | 
+President		-> | D22:10 | D54:10 | D67:7 | 
+Communication		-> | D22:12 | D54:12 | 
+when		-> | D22:13 | D54:13 | 
+asked		-> | D22:14 | D54:14 | D88:1 | D98:12 | 
+proceed		-> | D22:17 | D34:1 | D54:17 | D99:21 | 
+immediately		-> | D22:20 | D54:20 | D76:14 | 
+receive		-> | D22:22 | D54:22 | D61:3 | 
+long		-> | D23:0 | D55:0 | D69:10 | 
+conceivably		-> | D23:2 | D55:2 | 
+could		-> | D23:3 | D55:3 | D85:5 | 
+Lawrence		-> | D23:5 | D55:5 | 
+Cohn		-> | D23:6 | D24:0 | D55:6, 14 | 
+Merrill		-> | D23:9 | D55:9 | D82:6 | 
+Lynch		-> | D23:10 | D55:10 | D82:7 | 
+Pierce		-> | D23:11 | D55:11 | D82:8 | 
+Fenner		-> | D23:12 | D55:12 | D82:9 | 
+wait		-> | D24:4 | D55:18 | 
+show		-> | D24:8 | D29:6 | D32:4 | D55:22 | D58:36 | 
+improved		-> | D24:10 | D55:24 | D77:15 | 
+financial		-> | D24:11 | D55:25 | D72:8 | 
+outlook		-> | D24:12 | D55:26 | D77:17 | 
+Although		-> | D25:0 | D56:0 | 
+specify		-> | D25:2 | D56:2 | 
+type		-> | D25:3 | D56:3 | 
+equitie		-> | D25:4 | D56:4 | 
+most		-> | D25:7 | D56:7 | 
+believed		-> | D25:9 | D56:9 | 
+preferred		-> | D25:11 | D35:6 | D47:14 | D56:11 | 
+encompas		-> | D25:14 | D56:14 | 
+least		-> | D25:15 | D56:15 | 
+Such		-> | D26:0 | D56:17 | 
+depressed		-> | D26:2 | D56:19 | 
+mean		-> | D26:6 | D56:23 | 
+conversion		-> | D26:8 | D56:25 | 
+more		-> | D26:10 | D29:16 | D56:27 | D59:7 | D94:17 | 
+dilution		-> | D26:11 | D56:28 | 
+holder		-> | D26:14 | D56:31 | D78:24 | 
+noted		-> | D26:15 | D29:0 | D56:32 | D58:30 | 
+Daniel		-> | D26:16 | D56:33 | 
+William		-> | D26:17 | D56:34 | 
+Sutro		-> | D26:20 | D56:37 | 
+Group		-> | D26:21 | D56:38 | 
+Several		-> | D27:0 | D57:0 | 
+while		-> | D27:4 | D57:4 | 
+believe		-> | D27:6 | D57:6 | 
+problem		-> | D27:9 | D57:9 | 
+continue		-> | D27:11 | D41:19 | D48:6, 17 | D57:11 | 
+hang		-> | D27:12 | D57:12 | 
+industry		-> | D27:15 | D57:15 | 
+through		-> | D27:16 | D30:9 | D57:16 | 
+quarter		-> | D27:17 | D29:8 | D43:4, 13 | D44:9 | D45:5, 19 | D57:17 | D58:38 | D62:5, 20 | D65:7 | D79:6 | D80:17 | 
+initial		-> | D27:18 | D57:18 | 
+shock		-> | D27:19 | D57:19 | D91:14 | 
+reaction		-> | D27:20 | D57:20 | 
+likely		-> | D27:21 | D45:25 | D57:21 | D94:28 | 
+ease		-> | D27:22 | D57:22 | 
+Nevertheles		-> | D28:0 | D58:0 | 
+hold		-> | D28:3 | D58:3 | 
+about		-> | D28:4 | D58:4 | D72:12 | D98:19 | 
+billion		-> | D28:5 | D35:13, 22 | D58:5 | D63:7, 10 | D83:9, 24, 27 | D89:14 | D90:8 | D97:23 | 
+loan		-> | D28:8 | D34:8 | D58:8 | D90:9 | 
+stand		-> | D28:9 | D58:9 | 
+lose		-> | D28:10 | D29:14 | D58:10 | D59:5 | 
+1520		-> | D28:11 | D58:11 | 
+rate		-> | D28:14 | D31:29 | D58:14 | D71:7 | D81:5 | D86:10 | D87:1, 6 | 
+reduced		-> | D28:15 | D58:15 | 
+pay		-> | D28:20 | D58:20 | 
+Joseph		-> | D28:24 | D58:24 | 
+Arsenio		-> | D28:25 | D58:25 | 
+Birr		-> | D28:28 | D58:28 | 
+Wilson		-> | D28:29 | D58:29 | 
+however		-> | D29:1 | D58:31 | 
+potential		-> | D29:3 | D58:33 | D94:4 | 
+losse		-> | D29:4, 34 | D58:34 | D59:25 | 
+current		-> | D29:7 | D42:9 | D44:8 | D58:37 | 
+even		-> | D29:15 | D59:6 | 
+fail		-> | D29:20 | D59:11 | 
+service		-> | D29:21 | D59:12 | 
+expect		-> | D29:26 | D59:17 | D62:2 | D67:2 | 
+restructured		-> | D29:29 | D59:20 | 
+similar		-> | D29:30 | D59:21 | 
+Mexico		-> | D29:31 | D59:22 | D90:4 | 
+minimizing		-> | D29:33 | D59:24 | 
+creditor		-> | D29:35 | D35:35 | D59:26 | 
+Agriculture		-> | D30:0 | D69:16 | 
+Department		-> | D30:1 | D69:17 | 
+reported		-> | D30:2 | D62:23 | D79:3 | 
+farmerowned		-> | D30:3 | 
+reserve		-> | D30:4 | 
+national		-> | D30:5 | 
+fiveday		-> | D30:6 | 
+average		-> | D30:7 | 
+follow		-> | D30:11 | D89:10 | 
+DlrsBuSorghum		-> | D30:12 | 
+Reserve		-> | D31:0 | 
+matured		-> | D31:2 | 
+Level		-> | D31:3, 14, 21 | 
+reflect		-> | D31:4 | 
+grain		-> | D31:5 | D32:1, 7 | 
+entered		-> | D31:6, 24 | 
+1981		-> | D31:8, 12 | 
+feedgrain		-> | D31:9 | 
+wheat		-> | D31:13, 23 | D69:12 | D70:0, 19 | 
+wheatbarley		-> | D31:15 | 
+51482		-> | D31:17 | 
+cornsorghum		-> | D31:18 | 
+7182		-> | D31:20 | 
+cover		-> | D31:22 | D69:7 | 
+1984		-> | D31:27 | 
+X1986		-> | D31:28 | 
+Ydlr		-> | D31:30 | 
+nanot		-> | D31:31 | 
+Argentine		-> | D32:0 | 
+board		-> | D32:2 | D37:2, 17 | D77:3 | 
+registration		-> | D32:6 | D33:6 | D47:5 | 
+oilseed		-> | D32:8 | 
+product		-> | D32:10 | D42:13 | 
+showing		-> | D32:14 | 
+those		-> | D32:15 | D36:15 | D62:8 | D88:14 | 
+futurE		-> | D32:16 | 
+month		-> | D32:18 | D80:4 | D89:9 | 
+198586		-> | D32:21 | 
+1986		-> | D32:24 | D43:15 | D62:18 | D70:29 | 
+bracket		-> | D32:25 | 
+Lion		-> | D33:0 | D34:14 | 
+Inn		-> | D33:1 | 
+Limited		-> | D33:2 | 
+Partnership		-> | D33:3 | 
+statement		-> | D33:7 | D47:6 | D73:22 | D98:18 | 
+covering		-> | D33:12 | 
+4790000		-> | D33:15 | 
+unit		-> | D33:16 | D35:10 | D47:16 | D48:29 | D67:6 | D74:2 | D81:20 | 
+partnership		-> | D33:18 | D47:15 | D48:24, 28 | 
+from		-> | D34:2 | D36:19 | D37:28 | D63:9 | D64:11 | D66:9 | D67:22, 32 | D70:13 | D80:10 | D88:19 | D93:10 | 
+1025		-> | D34:6 | 
+mortgage		-> | D34:7 | 
+used		-> | D34:10 | 
+finance		-> | D34:11 | D88:21 | 
+planned		-> | D34:12 | D99:5 | 
+acquisition		-> | D34:13 | D44:6 | D45:2 | D46:9 | D67:21, 33 | D81:32 | D82:13 | 
+hotel		-> | D34:15 | 
+Moody		-> | D35:0, 17 | D36:10 | 
+Investor		-> | D35:1 | 
+Service		-> | D35:2 | 
+lowered		-> | D35:4 | D36:13 | 
+rating		-> | D35:8 | 
+About		-> | D35:11 | 
+seven		-> | D35:12 | D44:10 | D79:10 | 
+affected		-> | D35:16 | 
+Marathon		-> | D35:19 | 
+establishment		-> | D35:21 | 
+production		-> | D35:24 | 
+facilitie		-> | D35:26 | D75:7 | 
+prolific		-> | D35:27 | 
+Yate		-> | D35:28 | 
+Field		-> | D35:29 | 
+significant		-> | D35:30 | 
+negative		-> | D35:31 | 
+implication		-> | D35:32 | 
+USX		-> | D35:33 | D36:16 | 
+unsecured		-> | D35:34 | 
+company		-> | D36:0 | D37:0, 14 | D39:0, 32 | D40:0 | D42:0 | D44:0 | D48:11, 13 | D60:13 | D64:3 | D67:0, 13, 29, 41 | D75:0 | D77:9 | D78:11, 29 | 
+appear		-> | D36:1 | 
+positioned		-> | D36:3 | 
+steel		-> | D36:4 | 
+segment		-> | D36:5 | 
+return		-> | D36:6 | 
+profit		-> | D36:7 | D43:7 | D79:7 | D80:5 | 
+late		-> | D36:8 | D45:21 | D67:34 | 
+1987		-> | D36:9 | D37:13 | D88:5 | 
+added		-> | D36:11 | 
+Rating		-> | D36:12 | 
+include		-> | D36:14 | 
+senior		-> | D36:17 | D84:13 | D86:12 | 
+BAA3		-> | D36:20 | 
+director		-> | D37:3 | D78:13 | D81:30 | 
+twoforone		-> | D37:5 | 
+split		-> | D37:7 | D77:7 | D78:3, 28 | 
+common		-> | D37:8 | D38:8 | D39:24 | D40:9 | D48:26 | D78:6 | 
+share		-> | D37:9, 30 | D38:7, 13 | D39:9, 17 | D40:16 | D43:10 | D62:25 | D64:14, 17 | D65:17 | D78:7, 19 | D79:9 | D80:9, 13, 19 | D94:26 | 
+shareholder		-> | D37:10, 20 | D67:43 | 
+record		-> | D37:11 | D78:25 | D79:13 | 
+April		-> | D37:12, 23 | D45:28 | D70:28 | D78:23 | D93:11 | 
+voted		-> | D37:18 | 
+recommend		-> | D37:19 | D97:6 | 
+annual		-> | D37:21 | 
+meeting		-> | D37:22 | D85:1 | D92:3 | D93:3 | D94:14 | D96:2 | 
+increase		-> | D37:24 | D39:18 | D77:8 | D79:4, 11 | 
+authorized		-> | D37:25 | 
+capital		-> | D37:26 | D44:15 | 
+five		-> | D37:29 | D39:4 | D98:9 | 
+Computer		-> | D38:0 | D39:10, 21 | D41:0 | D42:15 | 
+Terminal		-> | D38:1 | D39:11, 22 | D41:1 | D42:16 | 
+System		-> | D38:2 | D60:3 | D97:12 | 
+completed		-> | D38:4 | 
+200000		-> | D38:6 | D41:15 | 
+warrant		-> | D38:10 | D39:2 | D40:4 | 
+acquire		-> | D38:11 | 
+additional		-> | D38:12 | D39:16 | 
+Sedio		-> | D38:14 | D39:13 | 
+Lugano		-> | D38:15 | 
+Switzerland		-> | D38:16 | 
+50000		-> | D38:17 | 
+exercisable		-> | D39:3 | D40:6 | 
+purchase		-> | D39:6 | D70:21 | 
+right		-> | D39:15 | D41:6 | 
+holding		-> | D39:20 | 
+outstanding		-> | D39:23 | D44:14 | 
+certain		-> | D39:27 | 
+involving		-> | D39:29 | 
+change		-> | D39:30 | 
+control		-> | D39:31 | 
+occur		-> | D40:3 | 
+equal		-> | D40:8 | 
+exceed		-> | D40:14 | D62:7 | D63:6 | D65:11 | 
+technolgy		-> | D41:5 | 
+Matrix		-> | D41:7 | 
+impact		-> | D41:8 | 
+technology		-> | D41:9, 23 | 
+including		-> | D41:10 | D46:4 | D90:7 | 
+future		-> | D41:11 | 
+improvement		-> | D41:12 | D66:6 | 
+Woodco		-> | D41:13, 24 | 
+Houston		-> | D41:14 | 
+exclusive		-> | D41:20 | D74:10 | 
+worldwide		-> | D41:21 | 
+licensee		-> | D41:22 | D44:11 | 
+move		-> | D42:2 | 
+reorganization		-> | D42:5 | 
+help		-> | D42:8 | 
+operation		-> | D42:10 | D80:22 | 
+cost		-> | D42:11 | D99:14, 39 | 
+ensure		-> | D42:12 | 
+delivery		-> | D42:14 | 
+make		-> | D42:17 | D88:4, 12 | 
+computer		-> | D42:18 | 
+generated		-> | D42:19 | 
+label		-> | D42:20 | 
+tag		-> | D42:22 | 
+ticket		-> | D42:23 | 
+printer		-> | D42:24 | 
+terminal		-> | D42:25 | 
+Ohio		-> | D43:0 | 
+Mattres		-> | D43:1 | 
+first		-> | D43:3, 12 | D45:4, 18 | 
+ending		-> | D43:5 | D62:6 | 
+below		-> | D43:8 | 
+earned		-> | D43:11 | 
+fiscal		-> | D43:14 | D62:17 | D67:11 | D81:15 | 
+decline		-> | D44:2 | 
+expense		-> | D44:4 | 
+related		-> | D44:5 | 
+middle		-> | D44:7 | 
+Sealy		-> | D44:12, 17 | 
+Because		-> | D45:0 | 
+these		-> | D45:1 | D75:2 | 
+substantially		-> | D45:8 | D81:8 | 
+higher		-> | D45:9 | 
+Noting		-> | D45:14 | 
+typically		-> | D45:16 | 
+report		-> | D45:17, 24 | D61:5 | D96:6 | 
+result		-> | D45:20 | 
+march		-> | D45:22 | 
+issued		-> | D45:26 | D71:10 | 
+administrative		-> | D46:2 | 
+consideration		-> | D46:3 | 
+conducting		-> | D46:5 | 
+appraisal		-> | D46:6 | 
+connection		-> | D46:7 | D97:18 | D98:15 | D99:33 | 
+National		-> | D47:0 | D48:4 | D60:0 | 
+Intergroup		-> | D47:1 | D48:5 | 
+file		-> | D47:4 | 
+exchange		-> | D47:9 | 
+commission		-> | D47:10 | 
+Permian		-> | D47:17 | D48:0, 8, 15 | 
+Partner		-> | D47:18 | D48:1 | 
+recently		-> | D48:2 | 
+formed		-> | D48:3 | 
+busines		-> | D48:7, 19 | 
+acquired		-> | D48:10 | 
+1985		-> | D48:12 | 
+general		-> | D48:20, 27 | 
+partner		-> | D48:21 | 
+retaining		-> | D48:22 | 
+stake		-> | D48:23 | 
+Health		-> | D60:1, 17 | 
+Enhancement		-> | D60:2 | D70:24 | 
+health		-> | D60:6 | 
+evaluation		-> | D60:7 | 
+system		-> | D60:8 | D74:19 | D75:3 | D93:20 | D98:4 | 
+line		-> | D60:9 | D66:8 | 
+fitnes		-> | D60:10 | 
+assessment		-> | D60:11 | 
+program		-> | D60:12, 15 | D61:1, 8 | 
+Test		-> | D60:18 | 
+day		-> | D60:21 | 
+Customer		-> | D61:0 | 
+computergenerated		-> | D61:4 | 
+recommendation		-> | D61:6 | 
+implementing		-> | D61:7 | 
+improve		-> | D61:9 | D81:9 | 
+physical		-> | D61:11 | 
+Dean		-> | D62:0 | D66:3 | D67:9, 26 | 
+Food		-> | D62:1 | D67:44 | 
+earning		-> | D62:3, 24 | D64:7 | D65:15 | D77:16 | D81:12 | 
+fourth		-> | D62:4, 19 | D65:6 | 
+yearago		-> | D62:10 | 
+Chairman		-> | D62:12 | 
+Kenneth		-> | D62:13 | 
+Dougla		-> | D62:14 | D63:0 | D64:0 | D65:0 | D66:1 | D68:8 | 
+told		-> | D62:15 | D68:9 | D97:28 | 
+food		-> | D62:21 | 
+should		-> | D63:5 | D66:4 | 
+prior		-> | D63:12 | D65:12 | 
+repeated		-> | D64:1 | 
+projection		-> | D64:4 | 
+thirdquarter		-> | D64:6 | 
+probably		-> | D64:9 | 
+slightly		-> | D64:10 | D94:16 | 
+range		-> | D64:16 | 
+project		-> | D65:3 | 
+whether		-> | D65:4 | 
+anticipated		-> | D65:5 | 
+enough		-> | D65:10 | D73:14 | 
+overall		-> | D65:14 | 
+1988		-> | D66:0 | D67:12 | D81:16 | D88:6 | 
+experience		-> | D66:5 | 
+bottom		-> | D66:7 | 
+effect		-> | D66:10 | 
+reform		-> | D66:11 | 
+alone		-> | D66:12 | 
+priced		-> | D67:4 | 
+Howard		-> | D67:8 | 
+derive		-> | D67:15 | 
+benefit		-> | D67:16, 31 | 
+variou		-> | D67:17 | 
+dairy		-> | D67:18 | 
+frozen		-> | D67:19 | 
+vegetable		-> | D67:20 | 
+Ryan		-> | D67:23 | 
+Milk		-> | D67:24 | 
+Larsen		-> | D67:25 | 
+December		-> | D67:35 | 
+Elgin		-> | D67:36 | 
+Blender		-> | D67:37 | 
+West		-> | D67:38 | 
+Chicago		-> | D67:39 | 
+United		-> | D67:45 | 
+Kingdom		-> | D67:46 | 
+blender		-> | D67:47 | 
+licensing		-> | D67:48 | 
+arrangement		-> | D67:49 | 
+Australia		-> | D67:50 | 
+Canada		-> | D67:51 | 
+Japan		-> | D67:53 | 
+provide		-> | D68:0 | 
+entry		-> | D68:1 | 
+McDonald		-> | D68:2 | 
+weve		-> | D68:4 | 
+Commodity		-> | D69:0 | 
+Credit		-> | D69:1 | 
+Corporation		-> | D69:2 | 
+accepted		-> | D69:3 | 
+bonu		-> | D69:5 | D70:4, 15 | 
+37000		-> | D69:9 | 
+ton		-> | D69:11 | 
+flour		-> | D69:13 | D70:20 | 
+Yemen		-> | D69:15 | 
+four		-> | D70:1 | 
+MarchMay		-> | D70:3 | 
+awarded		-> | D70:5, 16 | 
+11905		-> | D70:6 | 
+paid		-> | D70:10 | D78:30 | 
+commoditie		-> | D70:12 | 
+inventory		-> | D70:14 | 
+Pillsbury		-> | D70:17 | 
+Company		-> | D70:18 | 
+complete		-> | D70:22 | 
+Export		-> | D70:23 | 
+Program		-> | D70:25 | 
+initiative		-> | D70:26 | D95:5 | 
+announced		-> | D70:27 | 
+Legislation		-> | D71:0 | 
+require		-> | D71:1 | 
+disclosure		-> | D71:2 | 
+credit		-> | D71:3 | 
+card		-> | D71:4, 9 | D72:15 | D73:1, 7 | 
+fee		-> | D71:5 | 
+before		-> | D71:8 | 
+introduced		-> | D71:13 | 
+Senate		-> | D71:14 | 
+House		-> | D71:15 | 
+Chri		-> | D72:0 | 
+Dodd		-> | D72:1 | D73:20 | 
+DConn		-> | D72:2 | 
+cosponsor		-> | D72:3 | 
+bill		-> | D72:4 | 
+many		-> | D72:6 | 
+institution		-> | D72:9 | 
+disclose		-> | D72:10 | D73:3 | D84:2 | 
+information		-> | D72:11 | D73:15 | 
+promotional		-> | D72:16 | 
+material		-> | D72:17 | 
+sent		-> | D72:18 | 
+prospective		-> | D72:19 | 
+customer		-> | D72:20 | 
+requiring		-> | D73:0 | 
+issuer		-> | D73:2 | 
+solicitation		-> | D73:9 | 
+legislation		-> | D73:10 | 
+intended		-> | D73:11 | 
+consumer		-> | D73:12 | D94:11 | 
+shop		-> | D73:16 | 
+best		-> | D73:18 | 
+deal		-> | D73:19 | D85:9 | D91:23 | 
+HughesConserdyne		-> | D74:0 | 
+Hughe		-> | D74:3 | 
+Capital		-> | D74:4 | 
+Bear		-> | D74:8 | 
+Stearn		-> | D74:9 | D81:25 | D82:3 | 
+banker		-> | D74:12 | D83:15 | D85:12 | D86:13 | D91:6 | 
+develop		-> | D74:13 | 
+financing		-> | D74:15 | D90:5 | 
+design		-> | D74:16 | 
+installation		-> | D74:17 | 
+microutility		-> | D74:18 | 
+municipalitie		-> | D74:20 | 
+selfcontained		-> | D75:4 | 
+electrical		-> | D75:5 | 
+generating		-> | D75:6 | 
+using		-> | D75:8 | 
+alternate		-> | D75:9 | 
+power		-> | D75:10, 18 | D98:23 | D99:11, 31 | 
+source		-> | D75:11, 19 | 
+such		-> | D75:12 | 
+photovoltaic		-> | D75:13 | 
+cell		-> | D75:14 | 
+replace		-> | D75:15 | 
+public		-> | D75:16 | D99:29 | 
+utility		-> | D75:17 | 
+Magma		-> | D76:0 | 
+Copper		-> | D76:1 | 
+Newmont		-> | D76:3 | 
+Mining		-> | D76:4 | 
+cutting		-> | D76:7 | 
+copper		-> | D76:8 | 
+cathode		-> | D76:9 | 
+cent		-> | D76:11, 12 | 
+effective		-> | D76:13 | D78:9 | 
+Brown		-> | D77:0, 12 | D78:0 | D79:0 | D80:0 | D81:0, 10, 27 | D82:0 | 
+Forman		-> | D77:1, 13 | D78:1 | D79:1 | D80:1 | D81:1, 11, 28 | D82:1 | 
+threefortwo		-> | D77:5 | 
+cash		-> | D77:10, 20 | D78:16 | D81:13 | 
+dividend		-> | D77:11, 24 | D78:17 | 
+cited		-> | D77:14 | 
+strong		-> | D77:19 | 
+flow		-> | D77:21 | D81:14 | 
+reason		-> | D77:22 | 
+raising		-> | D77:23 | 
+Clas		-> | D78:4, 5 | 
+declared		-> | D78:14 | 
+quarterly		-> | D78:15, 31 | 
+each		-> | D78:18 | 
+classe		-> | D78:21 | 
+payable		-> | D78:22 | 
+Prior		-> | D78:27 | 
+today		-> | D79:2 | D85:11 | D89:13 | D95:9 | 
+third		-> | D79:5 | 
+nine		-> | D80:3 | 
+declined		-> | D80:6 | D84:1 | 
+second		-> | D80:16 | 
+charge		-> | D80:18 | D98:13 | 
+restructuring		-> | D80:20 | D81:6 | 
+beverage		-> | D80:21 | 
+corporate		-> | D81:4 | 
+Shearson		-> | D81:17 | 
+Lehman		-> | D81:18 | 
+Brother		-> | D81:19 | 
+American		-> | D81:21 | 
+Expres		-> | D81:22 | 
+Robert		-> | D81:24 | 
+joined		-> | D81:26 | 
+managing		-> | D81:29 | 
+merger		-> | D81:31 | D82:12 | 
+department		-> | D81:33 | D82:14 | 
+formerly		-> | D82:4 | 
+Venezuela		-> | D83:0 | D87:7 | D88:23 | 
+advisory		-> | D83:2 | D89:21 | 
+agreed		-> | D83:5 | 
+principle		-> | D83:6 | 
+revision		-> | D83:7 | 
+debtrescheduling		-> | D83:10 | 
+package		-> | D83:11 | D90:6 | 
+signed		-> | D83:12 | D90:11 | 
+link		-> | D83:21 | 
+having		-> | D83:23 | 
+asset		-> | D83:26 | 
+deposit		-> | D83:29 | 
+They		-> | D84:0 | 
+detail		-> | D84:3 | D86:1, 6 | 
+three		-> | D84:5 | 
+representative		-> | D84:6 | 
+panel		-> | D84:7 | D89:22 | 
+obtain		-> | D84:10 | 
+final		-> | D85:6 | 
+stamp		-> | D85:7 | 
+later		-> | D85:10 | 
+number		-> | D86:0 | 
+finalized		-> | D86:4 | 
+broad		-> | D86:5 | 
+amortization		-> | D86:7 | D88:13 | 
+schedule		-> | D86:8 | 
+place		-> | D86:11 | 
+rescheduling		-> | D87:2 | D89:16 | 
+originally		-> | D87:3 | 
+Eurodollar		-> | D87:5 | 
+requested		-> | D87:8 | 
+easier		-> | D87:9 | 
+drop		-> | D87:12 | 
+income		-> | D87:13 | 
+reduction		-> | D88:2 | 
+repayment		-> | D88:3 | 
+1989		-> | D88:7 | 
+request		-> | D88:10 | 
+rebuffed		-> | D88:16 | 
+sought		-> | D88:17 | 
+commitment		-> | D88:18 | 
+breakthrough		-> | D89:0 | 
+Venezuelan		-> | D89:1 | 
+talk		-> | D89:2 | 
+intermittently		-> | D89:7 | 
+several		-> | D89:8 | 
+announcement		-> | D89:11 | 
+pact		-> | D89:17 | 
+between		-> | D89:18 | 
+Chile		-> | D89:19 | 
+night		-> | D90:1 | 
+Citibank		-> | D90:2 | 
+While		-> | D91:0 | 
+sudden		-> | D91:1 | 
+progres		-> | D91:2 | D96:5 | 
+extent		-> | D91:4 | 
+coincidental		-> | D91:5 | 
+acknowledge		-> | D91:7 | 
+desire		-> | D91:8 | 
+chalk		-> | D91:9 | 
+quick		-> | D91:11 | 
+successe		-> | D91:12 | 
+unilateral		-> | D91:16 | 
+suspension		-> | D91:18 | 
+Friday		-> | D91:20 | 
+striking		-> | D91:21 | 
+swift		-> | D91:22 | 
+hope		-> | D91:25 | 
+reduce		-> | D91:26 | 
+incentive		-> | D91:27 | 
+debtor		-> | D91:29 | 
+emulate		-> | D91:30 | 
+Talk		-> | D92:0 | 
+extended		-> | D92:1 | 
+special		-> | D92:2 | 
+International		-> | D92:4 | 
+Coffee		-> | D92:5 | 
+Organization		-> | D92:6 | 
+reintroduction		-> | D92:7 | 
+quota		-> | D92:9 | D93:9, 19 | D94:6 | 
+chance		-> | D92:11 | 
+succes		-> | D92:12 | 
+impossible		-> | D92:16 | 
+gauge		-> | D92:17 | 
+delegate		-> | D92:18 | D93:1 | D94:2, 32 | D95:10 | D96:7 | 
+Producer		-> | D93:0 | 
+examine		-> | D93:4 | 
+Colombian		-> | D93:5 | D95:4 | 
+proposal		-> | D93:6 | D95:1 | 
+resume		-> | D93:7 | 
+historical		-> | D93:8 | 
+September		-> | D93:12, 23 | 
+promise		-> | D93:14 | 
+define		-> | D93:15 | 
+specific		-> | D93:16 | 
+criteria		-> | D93:17 | 
+calculated		-> | D93:22 | 
+Opinion		-> | D94:0 | 
+among		-> | D94:1 | 
+reaching		-> | D94:5 | 
+agreement		-> | D94:7 | 
+varied		-> | D94:8 | 
+widely		-> | D94:9 | 
+mood		-> | D94:13 | 
+seemed		-> | D94:15 | 
+optimistic		-> | D94:18 | 
+unwillingnes		-> | D94:20 | 
+concede		-> | D94:21 | 
+traditional		-> | D94:22 | 
+3055		-> | D94:23 | 
+look		-> | D94:27 | 
+preclude		-> | D94:29 | 
+accord		-> | D94:30 | 
+fresh		-> | D95:0 | 
+tabled		-> | D95:7 | 
+formally		-> | D95:8 | 
+full		-> | D96:0 | 
+council		-> | D96:1 | 
+1900		-> | D96:3 | 
+hour		-> | D96:4 | 
+staff		-> | D97:0 | D98:6 | D99:4 | 
+federal		-> | D97:1 | 
+Washington		-> | D97:8 | 
+Public		-> | D97:9 | 
+Power		-> | D97:10 | 
+Supply		-> | D97:11 | 
+WPPSS		-> | D97:13, 26 | D98:0, 14 | D99:8, 27 | 
+charged		-> | D97:14 | 
+fraud		-> | D97:17 | 
+1983		-> | D97:21 | 
+default		-> | D97:22 | 
+bond		-> | D97:25 | D98:29 | D99:20, 35 | 
+official		-> | D97:27 | D98:17 | 
+Reuter		-> | D97:29 | 
+attorney		-> | D98:1, 7 | 
+English		-> | D98:2 | D99:0, 22, 25 | 
+advised		-> | D98:5 | 
+commissioner		-> | D98:10 | 
+build		-> | D98:21 | 
+nuclear		-> | D98:22 | 
+plant		-> | D98:24 | D99:15, 40 | 
+Pacific		-> | D98:25 | 
+Northwest		-> | D98:26 | 
+telephone		-> | D99:1 | 
+interview		-> | D99:2 | 
+allege		-> | D99:6 | 
+overstated		-> | D99:9 | 
+demand		-> | D99:10, 32 | 
+region		-> | D99:12 | 
+understated		-> | D99:13, 38 | 
+built		-> | D99:18 | 
+denied		-> | D99:23 | 
+allegation		-> | D99:24 | 
+forecast		-> | D99:30 | 
+never		-> | D99:37 | 
