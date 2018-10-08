@@ -48,6 +48,21 @@ def Weight(keywords, did):
 		weights.append(tf*idf/tfmax)
 	return weights
 
+def calWeight (did):
+	## return weight 1*NUM_KEY
+	weights = []
+	tcmax = 0
+	for key in index:
+		tf = len(index[key][did])/len(paras[did])
+		# tcall = [len(index[k][did]) for k in index]
+		if tcmax < tf:
+			tcmax = tf
+		# tfmax = max(tcall)/len(paras[did])
+		df = N-index[key].count([])
+		idf = math.log(N/df,2)
+		weights.append(tf*idf)
+	tfmax = tcmax/len(paras[did])
+	return [i/tfmax for i in weights]
 
 def CosSim(w1,w2):
 	## cosine similarity
@@ -70,9 +85,13 @@ def Search(query):
 	# query: query string
 	# return 3 top result did: [did1,did2,did3]
 	keywords = parseString(query)
-	weight_q = [1]*len(keywords)
-	cossim = [CosSim(weight_q,Weight(keywords,did)) for did in range(N)]
+	# weight_q = [1]*len(keywords)
+	weight_q = [0]*NUM_KEY
+	for keyword in keywords:
+		weight_q[[key for key in index].index(keyword)]=1
+	# cossim = [CosSim(weight_q,Weight(keywords,did)) for did in range(N)]
 	# pdb.set_trace()
+	cossim = [CosSim(weight_q,weights[did]) for did in range(N)]
 	cossim = [(cossim[i],i) for i in range(len(cossim))]
 	# pdb.set_trace()
 	cossim.sort(reverse=True, key=lambda k:k[0])
@@ -89,9 +108,10 @@ def findUniqueKeyword(did):
 
 
 def showResult(query, result):
-	## res: list of result (cossim_score,did)
+	## result: list of result [(cossim_score,did),]
 	# pdb.set_trace()
-	print('Result for "'+query+'":')
+	print('====================')
+	print('$ Result for "'+query+'":')
 	for res in result:
 		print('D'+str(res[1]))
 		print('number of unique keywords = %d' % findUniqueKeyword(res[1])[0])
@@ -118,6 +138,7 @@ def showResult(query, result):
 		print("cosine similarity score = "+str(res[0])+'\n')
 
 
+## main
 
 file = open("collection-100.txt")
 ## paragraph strings
@@ -142,7 +163,11 @@ fo.write(text_new)
 
 ## index: a dict {"word":[N lists: pos of word in each para]}
 index = makeIndex(paras)
-
+NUM_KEY = len(index)
+## weights: a matrix stroing the weights of all documents
+print("Calculating weights for all documents...")
+weights = [calWeight(did) for did in range(N)]
+print("Weights calculation complete!!")
 ## output the posting.txt
 posting_list = ""
 for key in index:
